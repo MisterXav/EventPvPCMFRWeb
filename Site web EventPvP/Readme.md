@@ -1,4 +1,4 @@
-Thanks for downloading this template!
+Réalisé a partir d'une template :
 
 Template Name: TheEvent
 Template URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
